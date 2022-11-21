@@ -348,6 +348,11 @@ button:hover {
 
     }
 
+    body{
+        background-image: url(https://th.bing.com/th/id/OIP.MB_yyypAjc7ICQq5yxO8BAHaEo?pid=ImgDet&rs=1); background-repeat:no-repeat; background-size:cover;
+
+    }
+
 }
 
 /* burger in list */
